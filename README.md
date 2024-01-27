@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi TechBro! 👋
+I'm **Riza Sakhi**.\
+a 4th semester Computer Science student at Bina Nusantara University who highly interested in Web Development.\
 <!--
 **rizasakhi/rizasakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
